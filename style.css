@@ -5,3 +5,52 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+.logo{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#header, .nav a, #hero, #cta {
+    color: white;
+}
+
+#header {
+    background-color: darkgrey;
+    height: 120px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#hero {
+    font-size: 22px;
+}
+
+#hero h1 {
+    font-size: 80px;
+}
+
+#cta {
+    
+}
+
+#cta:hover {
+    background-color: white;
+    color: #f84aa7;
+}
+
+#services {
+    background-color: #f8e5ff;
+}
+
+.card {
+    background-color: white;
+    width:fit-content;
+}
+.nav{
+
+}
